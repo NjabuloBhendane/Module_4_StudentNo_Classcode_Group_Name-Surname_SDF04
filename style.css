@@ -51,4 +51,25 @@ p {
     outline: none;
 }
 
+.btn-1 {
+    background-color:#DEB887 ;
+    border-color: transparent;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out;
+}
+
+.btn-1:hover  {
+    background-color: brown;
+    color: whitesmoke;
+}
+.btn-2 {
+    background-color:#29bd24 ;
+    border-color: transparent;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out;
+}
+
+.btn-2:hover
 /* Add your custom styles for btn-1, btn-2, and btn-3 */
